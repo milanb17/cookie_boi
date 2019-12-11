@@ -1,0 +1,17 @@
+{
+    "name": "cookie_boi",
+    "version": "1.0",
+    "description": "CS 263 Final Project by Milan Bhandari, Bob Chen, Kathy Qian",
+    "manifest_version": 2,
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "<all_urls>",
+        "cookies",
+        "storage"
+    ],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true 
+    }
+}
