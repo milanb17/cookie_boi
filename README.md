@@ -1,10 +1,10 @@
-# cookie_boi (Google Chrome Edxtension)
+# cookie_boi (Google Chrome Extension)
 
 cookie\_boi is a proof-of-concept client-side program to automate the temporary deletion of sensitive cookies without imposing a significant burden to the user, and no burden at all to web application developers or browser developers.
 
 ![](https://github.com/milanb17/cookie_boi/blob/master/cookieboi_demo.png?raw=true)
 
-## How to Install (Google Chrome extension)
+## How to Install
 1. Download `master` branch of `cookie_boi` repository as a ZIP file (likely called `cookie_boi-master.zip`).
 2. Unzip contents of ZIP file into a normal folder/directory (likely called `cookie_boi-master/`).
 3. Open the Google Chrome browser
@@ -26,4 +26,4 @@ cookie\_boi is a proof-of-concept client-side program to automate the temporary 
 ## Contributors
 - [Milan Bhandari](https://github.com/milanb17)
 - [Bobby Chen](https://github.com/chenbobby)
-- Katherine Qian
+- [Katherine Qian](https://github.com/katherineqian)
